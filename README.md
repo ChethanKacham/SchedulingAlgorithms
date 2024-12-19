@@ -34,8 +34,11 @@
    - Import the project folder
    
 3. **Run Algorithms**:
-   - Select the file(Eg. FCFSScheduling.java) and run the file to execute the algorithm
-   
+   - Navigate to the src/com/chethan/scheduling folder and select the file(Eg. FCFSScheduling.java)
+   - Run the file in IDE to execute the algorithm.
+4. **Input Files**: 
+   - Ensure that the required CSV input files are placed in the input_files directory.
+
 ---
 
 ### 📜 Algorithms Implemented
