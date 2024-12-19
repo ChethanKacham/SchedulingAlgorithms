@@ -43,22 +43,22 @@
 
 ### 📜 Algorithms Implemented
 
-1. **First Come First Serve (FCFS)**
+1. **First Come First Serve (FCFS)**:
    Reads input from input_fcfs.csv.
 
-2. **Shortest Job First (SJF)**
+2. **Shortest Job First (SJF)**:
    Reads input from input_sjf.csv.
 
-3. **Shortest Remaining Time First (SRTF)**
+3. **Shortest Remaining Time First (SRTF)**:
    Reads input from input_srtf.csv.
 
-4. **Priority Scheduling**
+4. **Priority Scheduling**:
    Reads input from priority_input.csv.
 
-5. **Priority Scheduling with Round Robin**
+5. **Priority Scheduling with Round Robin**:
    Reads input from priorityrr_input.csv.
 
-6. **Round Robin Scheduling (RR)**
+6. **Round Robin Scheduling (RR)**:
    Reads input from RR_input.csv.
    
 ### 📌 Purpose
